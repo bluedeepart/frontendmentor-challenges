@@ -86,7 +86,7 @@ main {
   align-items: center;
   gap: 0.5rem;
 }
-.card-footer h5 {
+.card-footer h2 {
   font-weight: 800;
   font-size: 1rem;
 }
