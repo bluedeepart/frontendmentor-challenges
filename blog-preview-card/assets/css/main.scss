@@ -39,6 +39,18 @@ a {
   }
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 .fw {
   &-medium {
     @include font_style;
@@ -79,22 +91,22 @@ main {
     }
   }
 
-  p{
+  p {
     color: $gray-500;
   }
 
-  &-footer{
+  &-footer {
     display: flex;
     align-items: center;
     gap: 0.5rem;
 
-    h6{
+    h5 {
       font-weight: 800;
       font-size: 1rem;
     }
 
-    .avatar{
-      img{
+    .avatar {
+      img {
         max-width: 32px;
       }
     }
@@ -115,7 +127,7 @@ main {
   margin-bottom: 1rem;
 }
 
-h3 {
+h1 {
   font-size: 1.5rem;
   font-weight: 800;
   margin-bottom: 1rem;

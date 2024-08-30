@@ -7,6 +7,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -21,6 +22,11 @@ Users should be able to:
 ### Screenshot
 
 ![Blog preview card solution](./assets/images/screencapture.png)
+
+### Links
+
+- Solution URL: [https://bluedeepart.github.io/frontendmentor-challenges/blog-preview-card/](https://bluedeepart.github.io/frontendmentor-challenges/blog-preview-card/)
+- Live Site URL: [https://bluedeepart.github.io/frontendmentor-challenges/blog-preview-card/](https://bluedeepart.github.io/frontendmentor-challenges/blog-preview-card/)
 
 ### Built with
 

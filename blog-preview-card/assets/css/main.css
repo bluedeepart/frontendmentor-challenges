@@ -27,6 +27,18 @@ a:hover {
   color: #f4d04e;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 .fw-medium {
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
@@ -74,7 +86,7 @@ main {
   align-items: center;
   gap: 0.5rem;
 }
-.card-footer h6 {
+.card-footer h5 {
   font-weight: 800;
   font-size: 1rem;
 }
@@ -96,7 +108,7 @@ main {
   margin-bottom: 1rem;
 }
 
-h3 {
+h1 {
   font-size: 1.5rem;
   font-weight: 800;
   margin-bottom: 1rem;
