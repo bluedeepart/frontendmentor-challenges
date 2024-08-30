@@ -1,1 +1,1 @@
-"# frontendmentor-challenges" 
+![Frontend Mentor Challenges](https://www.frontendmentor.io/static/images/logo-desktop.svg) 
