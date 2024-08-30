@@ -1,13 +1,13 @@
-$primary_color: #f4d04e;
 $white_color: #fff;
-$gray-500: #6b6b6b;
-$gray-950: #121212;
+$slate-300: #d6e2f0;
+$slate-500: #68778d;
+$slate-900: #1f3251;
 
 $mobile: 375px;
 $desktop: 1440px;
 
 @mixin font_style {
-  font-family: 'Figtree', sans-serif;
+  font-family: 'Outfit', sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
@@ -16,10 +16,10 @@ $desktop: 1440px;
   font-size: 90%;
   text-align: center;
   a {
-    color: $gray-500;
-    
-    &:hover{
-      color: $gray-950;
+    color: $slate-500;
+
+    &:hover {
+      color: $slate-900;
     }
   }
 }
@@ -34,7 +34,7 @@ body {
   @include font_style;
   font-weight: 500;
   font-size: 16px;
-  background-color: $primary_color;
+  background-color: $slate-300;
 }
 
 img {
@@ -46,9 +46,6 @@ a {
   color: inherit;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
-  &:hover {
-    color: $primary_color;
-  }
 }
 
 .sr-only {
@@ -64,6 +61,10 @@ a {
 }
 
 .fw {
+  &-normal {
+    @include font_style;
+    font-weight: 400;
+  }
   &-medium {
     @include font_style;
     font-weight: 500;
@@ -80,7 +81,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
   padding: 2rem;
 }
 
@@ -92,12 +93,12 @@ main {
 
 .card {
   overflow: hidden;
-  border: 2px solid $gray-950;
   background-color: $white_color;
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: 1.25rem;
-  max-width: $mobile;
-  box-shadow: 0.5rem 0.5rem 0;
+  max-width: 320px;
+  text-align: center;
+  box-shadow: 3px 15px 10px rgba($slate-900, 0.05);
 
   &-header {
     img {
@@ -105,44 +106,18 @@ main {
     }
   }
 
-  p {
-    color: $gray-500;
+  &-body{
+    padding: 0 0.5rem;
   }
-
-  &-footer {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-
-    h2 {
-      font-weight: 800;
-      font-size: 1rem;
-    }
-
-    .avatar {
-      img {
-        max-width: 32px;
-      }
-    }
-  }
-}
-
-.tag {
-  padding: 0.25rem 0.5rem;
-  background-color: $primary_color;
-  display: inline-block;
-  border-radius: 0.25rem;
-  margin-bottom: 0.75rem;
-}
-
-.date {
-  font-size: 90%;
-  font-weight: 600;
-  margin-bottom: 1rem;
 }
 
 h1 {
+  font-weight: 700;
   font-size: 1.5rem;
-  font-weight: 800;
+  color: $slate-900;
   margin-bottom: 1rem;
+}
+
+p {
+  color: $slate-500;
 }
