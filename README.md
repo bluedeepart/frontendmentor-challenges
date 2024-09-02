@@ -15,17 +15,17 @@ This repository contains solutions to various free challenges from [Frontend Men
 
 ### Blog Preview Card
 - **Location**: `frontendmentor-challenges/newbie/blog-preview-card`
-- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/blog-preview-card/](#)
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/blog-preview-card/](https://bluedeepart.github.io/frontendmentor-challenges/newbie/blog-preview-card/)
 - **Technologies Used**: HTML, CSS
 
 ### QR Code Component
 - **Location**: `frontendmentor-challenges/newbie/qr-code-component`
-- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/qr-code-component/](#)
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/qr-code-component/]([https://bluedeepart.github.io/frontendmentor-challenges/newbie/qr-code-component/)
 - **Technologies Used**: HTML, CSS
 
 ### NFT preview card
 - **Location**: `frontendmentor-challenges/newbie/nft-preview-card`
-- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/nft-preview-card/](#)
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/nft-preview-card/](https://bluedeepart.github.io/frontendmentor-challenges/newbie/nft-preview-card/)
 - **Technologies Used**: HTML, CSS
 
 ## Acknowledgments
