@@ -8,27 +8,25 @@ This repository contains solutions to various free challenges from [Frontend Men
 - [Newbie Challenges](#newbie-challenges)
   - [Blog Preview Card](#blog-preview-card)
   - [QR Code Component](#qr-code-component)
-- [Getting Started](#getting-started)
-- [License](#license)
+  - [NFT preview card](#nft-preview-card)
 - [Acknowledgments](#acknowledgments)
 
 ## Newbie Challenges
 
 ### Blog Preview Card
-- **Location**: `challenges/blog-preview-card`
-- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/blog-preview-card/](#)
+- **Location**: `frontendmentor-challenges/newbie/blog-preview-card`
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/blog-preview-card/](#)
 - **Technologies Used**: HTML, CSS
 
 ### QR Code Component
-- **Location**: `challenges/qr-code-component`
-- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/qr-code-component/](#)
+- **Location**: `frontendmentor-challenges/newbie/qr-code-component`
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/qr-code-component/](#)
 - **Technologies Used**: HTML, CSS
 
-## Getting Started
-To view any of the challenges:
-1. Clone this repository.
-2. Navigate to the respective folder under `challenges/`.
-3. Open the `index.html` file in your browser.
+### NFT preview card
+- **Location**: `frontendmentor-challenges/newbie/nft-preview-card`
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/nft-preview-card/](#)
+- **Technologies Used**: HTML, CSS
 
 ## Acknowledgments
 - [Frontend Mentor](https://www.frontendmentor.io/) for providing these challenges.
