@@ -33,7 +33,7 @@ h2 {
 
 a,
 .attribution a {
-  color: inherit;
+  color: #fff;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
 }
