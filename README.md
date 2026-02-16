@@ -1,15 +1,18 @@
-![Frontend Mentor Challenges](https://www.frontendmentor.io/static/images/logo-desktop.svg) 
+![Frontend Mentor Challenges](https://www.frontendmentor.io/images/logo-desktop.svg)
 
 # Frontend Mentor Challenges
 
 This repository contains solutions to various free challenges from [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges). Each challenge is categorized by its difficulty level and the technologies used.
 
 ## Table of Contents
-- [Newbie Challenges](#newbie-challenges)
-  - [Blog Preview Card](#blog-preview-card)
-  - [QR Code Component](#qr-code-component)
-  - [NFT preview card](#nft-preview-card)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor Challenges](#frontend-mentor-challenges)
+  - [Table of Contents](#table-of-contents)
+  - [Newbie Challenges](#newbie-challenges)
+    - [Blog Preview Card](#blog-preview-card)
+    - [QR Code Component](#qr-code-component)
+    - [NFT preview card](#nft-preview-card)
+    - [Order summary card solution](#order-summary-card-solution)
+  - [Acknowledgments](#acknowledgments)
 
 ## Newbie Challenges
 
@@ -27,6 +30,11 @@ This repository contains solutions to various free challenges from [Frontend Men
 - **Location**: `frontendmentor-challenges/newbie/nft-preview-card`
 - **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/nft-preview-card/](https://bluedeepart.github.io/frontendmentor-challenges/newbie/nft-preview-card/)
 - **Technologies Used**: HTML, CSS
+
+### Order summary card solution
+- **Location**: `frontendmentor-challenges/newbie/order-summary-component`
+- **Live Preview**: [https://bluedeepart.github.io/frontendmentor-challenges/newbie/order-summary-component/](https://bluedeepart.github.io/frontendmentor-challenges/newbie/order-summary-component/)
+- **Technologies Used**: HTML, CSS, Tailwind
 
 ## Acknowledgments
 - [Frontend Mentor](https://www.frontendmentor.io/) for providing these challenges.
